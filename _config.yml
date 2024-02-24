@@ -12,7 +12,7 @@ title                    : "Kyle Beadle"
 title_separator          : "-"
 name                     : &name "Kyle Beadle"
 description              : &description "personal description"
-url                      : "https://kbeadl.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://kylebeadle.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kbeadl/kbeadl.github.io"
 
@@ -25,7 +25,7 @@ author:
   name             : "Kyle Beadle"
   pronouns         : "he/him"  
   bio              : "PhD Student"
-  location         : "London, UK"
+  location         : "London, United Kingdom"
   employer         : "University College London"
   uri              : # URL
   email            : "kyle.beadle.22@ucl.ac.uk" 
