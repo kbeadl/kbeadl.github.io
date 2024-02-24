@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2024spring
 venue: "UCL, Department of Computer Science"
-date: 2023-09-25
+date: "Spring 2024"
 location: "London, United Kingdom"
 ---
 
