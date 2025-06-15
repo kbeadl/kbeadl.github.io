@@ -1,5 +1,5 @@
 ---
-title: Intracommunity Online Harmsas Contextual Integrity in LGBTQ+ Communities
+title: Intracommunity Online Harms as Contextual Integrity in LGBTQ+ Communities
 collection: talks
 type: Symposium Presentation
 permalink: /talks/2025privaci
