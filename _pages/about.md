@@ -9,7 +9,7 @@ redirect_from:
 
 I am a third year Computer Science Ph.D. candidate at the [UCL Cybersecurity Centre for Doctoral Training](https://www.ucl.ac.uk/cybersecurity-cdt/). 
 
-My research broadly focuses on privacy, online safety, and human-computer interaction. My interdisciplinary work focuses on:
+My research broadly focuses on privacy, online safety, and human-computer interaction. I take an interdisciplinary approach in:
 - Scrutinizing the surveillance possibilities of digital services and emerging technologies
 - Improving digital services (and content moderation) for marginalized and vulnerable people
 - Evaluating the security and privacy implications of research methods
