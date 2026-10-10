@@ -24,11 +24,11 @@ author:
   avatar           : "profile.png"
   name             : "Kyle Beadle"
   pronouns         : "he/him 🏳️‍🌈"  
-  bio              : "PhD Student"
-  location         : "London, United Kingdom"
-  employer         : "University College London"
+  bio              : "Postdoctoral Researcher"
+  location         : "Paris, France"
+  employer         : "Inria Saclay, INSA CVL"
   uri              : # URL
-  email            : "kyle.beadle.22@ucl.ac.uk" 
+  email            : "kyle.beadle@inria.fr" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
